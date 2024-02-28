@@ -2,7 +2,7 @@
 
 I am currently working out of NYC on a variety of projects across the entire stack.
 
-Previously worked in venture capital 🚀 for three years and professional soccer ⚽ in Europe and the US for a couple of years.
+Previously worked in venture capital 🚀 for three years and played professional soccer ⚽ in Europe and the US for a couple of years.
 
 Passionate about artificial intelligence 🤖 and deploying performant applications at scale ⚡ .
 
