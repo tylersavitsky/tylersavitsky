@@ -1,6 +1,10 @@
 ### Tyler Savitsky - Software Engineer 👾👾👾
 
-I am currently working on KAT, an open-source Kubernetes API tracking developer tool.
+I am currently working out of NYC on a variety of projects across the entire stack.
+
+Previously worked in venture capital 🚀 for three years and professional soccer ⚽ in Europe and the US for a couple of years.
+
+Passionate about artificial intelligence 🤖 and deploying performant applications at scale ⚡ .
 
 <!--
 **booleanmagus/booleanmagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
