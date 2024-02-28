@@ -1,4 +1,4 @@
-### Tyler Savitsky - Software Engineer
+### Tyler Savitsky - Software Engineer 👾👾👾
 
 <!--
 **booleanmagus/booleanmagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
