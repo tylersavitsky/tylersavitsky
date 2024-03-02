@@ -4,7 +4,7 @@ I am currently working out of NYC on a variety of projects across the entire sta
 
 Previously worked in venture capital 🚀 for three years and played professional soccer ⚽ in Europe and the US for a couple of years.
 
-Passionate about artificial intelligence 🤖 and deploying performant applications at scale ⚡ .
+Passionate about artificial intelligence 🤖, Large Language Models (LLMs), and deploying performant applications at scale ⚡ .
 
 <!--
 **booleanmagus/booleanmagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
