@@ -1,8 +1,8 @@
 ### Tyler Savitsky - Software Engineer 👾👾👾
 
-I am currently working out of NYC on a variety of projects across the entire stack.
+Currently working out of NYC.
 
-Previously worked in venture capital 🚀 for three years and played professional soccer ⚽ in Europe and the US for a couple of years.
+Previously worked in venture capital 🚀 and played professional soccer ⚽ in Europe and the US.
 
 Passionate about artificial intelligence 🤖, Large Language Models (LLMs), and deploying performant applications at scale ⚡ .
 
