@@ -2,7 +2,7 @@
 
 Currently working out of NYC.
 
-Previously worked in venture capital 🚀 and played professional soccer ⚽ in Europe and the US.
+Previously worked in venture capital 🚀 and played professional soccer ⚽.
 
 Passionate about artificial intelligence 🤖, Large Language Models (LLMs), and deploying performant applications at scale ⚡ .
 
