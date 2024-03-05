@@ -2,7 +2,7 @@
 
 Currently working out of NYC.
 
-Previously worked in venture capital 🚀 and played professional soccer ⚽.
+Previously worked in venture capital 🚀 and played professional soccer ⚽.  My favorite team is Arsenal.
 
 Passionate about artificial intelligence 🤖, Large Language Models (LLMs), and deploying performant applications at scale ⚡ .
 
