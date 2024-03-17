@@ -6,6 +6,8 @@ Previously worked in venture capital 🚀 and played professional soccer ⚽.  M
 
 Passionate about artificial intelligence 🤖, Large Language Models (LLMs), and deploying performant applications at scale ⚡ .
 
+Deep expertise in JavaScript, with experience in React, Redux, Node.js/Express, SQL and NoSQL.
+
 <!--
 **booleanmagus/booleanmagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
