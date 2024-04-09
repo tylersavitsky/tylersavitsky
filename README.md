@@ -1,12 +1,12 @@
-### Tyler Savitsky - Software Engineer 👾👾👾
+### Tyler Savitsky - Software Engineer
 
 Currently working out of NYC.
 
-Currently working on building retrieval evaluation UI for RAG pipeline grounding.
+Building retrieval evaluation UI for LLM RAG pipeline grounding.
 
-Previously worked in venture capital 🚀 and played professional soccer ⚽.  My favorite team is Arsenal!
+Previously worked in venture capital and played professional soccer.
 
-Passionate about artificial intelligence 🤖, Large Language Models (LLMs), and deploying performant applications at scale ⚡ .
+Passionate about artificial intelligence, Large Language Models (LLMs), and deploying performant applications at scale.
 
 Deep expertise in JavaScript/TypeScript, with experience in React, Redux, Node.js/Express, SQL and NoSQL.
 
