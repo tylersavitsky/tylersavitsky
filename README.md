@@ -1,14 +1,12 @@
 ### Tyler Savitsky - Software Engineer
 
-Currently working out of NYC.
+NYC / LA.
 
-Building retrieval evaluation UI for LLM RAG pipeline grounding.
+Building tooling for the evaluation and augmentation of LLM retrieval augmented pipelines.
 
-Previously worked in venture capital and played professional soccer.
+Passionate about artificial intelligence, Large Language Models (LLMs) and mathematics.
 
-Passionate about artificial intelligence, Large Language Models (LLMs), and deploying performant applications at scale.
-
-Deep expertise in JavaScript/TypeScript, with experience in React, Redux, Node.js/Express, SQL and NoSQL.
+Deep expertise in JavaScript/TypeScript (React, Angular, NodeJS), Python and database management.
 
 <!--
 **booleanmagus/booleanmagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
