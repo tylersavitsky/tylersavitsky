@@ -1,12 +1,6 @@
 ### Tyler Savitsky - Software Engineer
 
-NYC / LA.
-
-Building tooling for the evaluation and augmentation of LLM retrieval augmented pipelines.
-
-Passionate about artificial intelligence, Large Language Models (LLMs) and mathematics.
-
-Deep expertise in JavaScript/TypeScript (React, Angular, NodeJS), Python and database management.
+Currently working on building ultrasound education technology.
 
 <!--
 **booleanmagus/booleanmagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
